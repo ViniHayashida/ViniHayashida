@@ -19,3 +19,8 @@
   
    ##
   
+ <div> 
+ 
+  ![Snake animation](https://github.com/vinihayashida/vinihayashida/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
