@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vini
 
-- 🔭 Atualmente trabalho com integrações de chatbots com API's
+- 🔭 Buscando uma oportunidade em Web Dev
 - 🌱 Estou aprendendo front-end (HTML/CSS) e back-end (JavaScript)
 - 👯 LinkedIn: www.linkedin.com/in/vinicius-hayashida/
 - 📫 Contate-me no email: viniciushviana.vh16@gmail.com
