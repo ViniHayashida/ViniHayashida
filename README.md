@@ -1,6 +1,5 @@
 ### Olá, eu sou o Vini
 
-- 🔭 Buscando uma oportunidade em Web Dev
 - 🌱 Estou aprendendo front-end (HTML/CSS) e back-end (JavaScript)
 - 👯 LinkedIn: www.linkedin.com/in/vinicius-hayashida/
 - 📫 Contate-me no email: viniciushviana.vh16@gmail.com
